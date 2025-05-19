@@ -42,7 +42,9 @@ Tất cả contributors sẽ được ghi tên trong phần **Giới thiệu web
 - Không thu phí, không chạy quảng cáo độc hại
 
 ---
-
-## 📬 Liên hệ - Đề xuất
-
-Gửi pull request hoặc tạo issue để thảo luận.
+- TÓM GỌN
+Mở dự án cộng đồng: xây dựng web chia sẻ game sạch, không quảng cáo, không mã độc.
+Ai cũng có thể tham gia đóng góp giao diện, backend, ý tưởng...
+100% open. Gắn donate cho từng nhóm upload.
+Sau 12 tháng, sẽ gom lại thành hệ thống chính.
+=> Ai muốn góp sức chơi lớn một lần?
