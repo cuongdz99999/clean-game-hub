@@ -1,0 +1,19 @@
+CleanGameHub Open License (v1.0)
+
+Bằng việc đóng góp vào kho mã này, bạn đồng ý với các điều khoản sau:
+
+1. Tự nguyện: Mọi đóng góp (code, tài nguyên, tài liệu) được gửi lên là hoàn toàn tự nguyện và không yêu cầu bất kỳ khoản thanh toán, sở hữu hay quyền lợi nào.
+
+2. Chấp thuận sử dụng lại: Chủ sở hữu chính của repository (sau đây gọi là Admin) có quyền:
+   - Chỉnh sửa, tích hợp, xóa hoặc thay đổi mọi phần bạn gửi lên.
+   - Dùng lại nội dung đóng góp cho bất kỳ mục đích nào liên quan đến dự án, kể cả thương mại hóa sau này.
+
+3. Hiển thị thông tin Donate: Contributor có quyền đính kèm thông tin donate (STK, Momo, PayPal...) trong phần mình upload, có hiệu lực tối đa 12 tháng. Sau thời gian đó, Admin có toàn quyền cập nhật, thay đổi hoặc gỡ bỏ thông tin này.
+
+4. Kiểm soát tuyệt đối: Admin có toàn quyền quyết định hướng phát triển, quản lý nội dung và kiểm duyệt tất cả thay đổi trong kho mã. Mọi tranh chấp (nếu có) sẽ được xử lý theo quyết định cuối cùng của Admin.
+
+5. Bảo lưu quyền hạn: Dù đây là dự án mã nguồn mở, giấy phép này không chuyển nhượng quyền sở hữu kho mã cho bất kỳ contributor nào.
+
+---
+
+Copyright (c) 2025 CleanGameHub Admin. All rights reserved.
