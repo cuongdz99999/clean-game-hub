@@ -14,4 +14,5 @@ Bằng việc đóng góp vào kho mã này, bạn đồng ý với các điều
 
 5. Bảo lưu quyền hạn: Dù đây là dự án mã nguồn mở, giấy phép này không chuyển nhượng quyền sở hữu kho mã cho bất kỳ contributor nào.
 
+6. Sau 12 tháng tôi sẽ toàn quyền
 Copyright (c) 2025 CleanGameHub Admin. All rights reserved.
